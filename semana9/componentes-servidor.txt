@@ -1,0 +1,14 @@
+Sistema operativo:
+El sistema operativo controla el hardware y ofrece la base para ejecutar servicios, gestionar procesos y comunicar redes.
+
+Node.js:
+Node.js es el entorno de ejecución que permite ejecutar JavaScript en el servidor y manejar solicitudes HTTP.
+
+Aplicación server.js:
+El archivo server.js define las rutas y la lógica del servidor, respondiendo a peticiones en las URL / y /estado.
+
+Puerto:
+El puerto es el punto de entrada lógico donde el servidor escucha solicitudes; en este caso escucha en el puerto 3000.
+
+Logs:
+Los logs registran la actividad del servidor y los eventos importantes, facilitando el monitoreo y la depuración.
